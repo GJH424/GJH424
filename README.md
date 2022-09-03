@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Python, Flask, MySQL
 - 📫 How to reach me: 
 
-  Notion(CV): [https://bit.ly/3emSrU5](https://bit.ly/3emSrU5)
+  Notion(CV): https://bit.ly/3emSrU5](https://bit.ly/3emSrU5
 
   E-mail: [mlrd0108@gmail.com](mlrd0108@gmail.com)
   
