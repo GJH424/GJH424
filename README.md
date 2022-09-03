@@ -5,13 +5,13 @@
 - 🌱 I’m currently learning Python, Flask, MySQL
 - 📫 How to reach me: 
 
-  Notion(CV): [https://bit.ly/3emSrU5]: https://bit.ly/3emSrU5
+  Notion(CV): [https://bit.ly/3emSrU5](https://bit.ly/3emSrU5){: target="_blank"}
 
   E-mail: [mlrd0108@gmail.com](mlrd0108@gmail.com)
   
-  Github: [https://github.com/GJH424](https://github.com/GJH424)
+  Github: [https://github.com/GJH424](https://github.com/GJH424){: target="_blank"}
   
-  Website: [https://GJH424.github.io](https://GJH424.github.io)
+  Website: [https://GJH424.github.io](https://GJH424.github.io){: target="_blank"}
   
 
   
