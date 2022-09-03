@@ -1,11 +1,15 @@
 ### Hi there! 👋
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in GAN
+  - Transfer Learning, Virtual-Try-On
+- 🌱 I’m currently learning Python, Flask, MySQL
+- 📫 How to reach me: 
 
-<!---
-GJH424/GJH424 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  email: [mlrd0108@gmail.com](mlrd0108@gmail.com)
+  
+  github: [https://github.com/GJH424](https://github.com/GJH424)
+  
+  website: [https://GJH424.github.io](https://GJH424.github.io)
+  
+  
+
